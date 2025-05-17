@@ -14,7 +14,7 @@ python --verison
 ## Setup virtual environment 
 ### installment of virtual environment wrapper 
 pip install virtualenvwrapper-win  
-### creation of virtual environment 
+### creation of virtual environment <br/>
 mkvirtualenv test 
 ---
 
