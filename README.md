@@ -28,6 +28,7 @@ Djano-admin --version
 
 Now Django is available only in the virtual environment test <br/>
 If we open a new terminal we need to navigate to the location we made the test environment <br/>
+## Opening virtual environment 
 workon test 
 
 ---
