@@ -14,8 +14,9 @@ python --verison
 ## Setup virtual environment 
 ### installment of virtual environment wrapper 
 pip install virtualenvwrapper-win  
-### creation of virtual environment <br/>
+### creation of virtual environment
 mkvirtualenv test 
+
 ---
 
 ## Django installation 
@@ -37,6 +38,9 @@ cd path to project
 cd C:\Users\chlok\projects\helloworld
 python manage.py runserver 
 
+---
+
+## Viewing the project 
 Now you server will be locally running at http://127.0.0.1:8000/
 
 
