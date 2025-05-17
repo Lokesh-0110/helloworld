@@ -11,15 +11,16 @@ python --verison
 
 ---
 
-### Setup virtual environment 
-pip install virtualenvwrapper-win  #installment of virtual environment wrapper 
-mkvirtualenv test #creation of virtual environment 
-
+## Setup virtual environment 
+### installment of virtual environment wrapper 
+pip install virtualenvwrapper-win  
+### creation of virtual environment 
+mkvirtualenv test 
 ---
 
-### Django installation 
+## Django installation 
 pip install Django 
-#### check version 
+### check version 
 Djano-admin --version 
 
 ---
@@ -32,7 +33,7 @@ workon test
 
 ## Running the project 
 cd path to project 
-# Example:
+### Example:
 cd C:\Users\chlok\projects\helloworld
 python manage.py runserver 
 
