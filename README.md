@@ -32,10 +32,14 @@ workon test
 
 ---
 
-## Running the project 
+## Opening the project
 cd path to project 
 ### Example:
 cd C:\Users\chlok\projects\helloworld
+
+---
+
+## Running the project 
 python manage.py runserver 
 
 ---
