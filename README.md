@@ -1,12 +1,12 @@
 # HelloWorld
-This is a basic demonstration of displaying hello world using Django and python 
+This is a basic demonstration of displaying "Hello World" using Django and python. 
 
 ---
 
-### Python installation 
-Ensure the latest version of python is installed 
-#If not installed download from (https://www.python.org/downloads/)
-#### Check version 
+## Python Installation 
+Ensure the latest version of python is installed.
+If not, download it from (https://www.python.org/downloads/)
+### Check version 
 python --verison 
 
 ---
@@ -30,9 +30,13 @@ workon test
 
 ---
 
-### Running the project 
+## Running the project 
 cd path to project 
+# Example:
+cd C:\Users\chlok\projects\helloworld
 python manage.py runserver 
+
+Now you server will be locally running at http://127.0.0.1:8000/
 
 
 
