@@ -3,35 +3,34 @@ This is a basic demonstration of displaying hello world using Django and python
 
 ---
 
-###Python installation 
+### Python installation 
 Ensure the latest version of python is installed 
 #If not installed download from (https://www.python.org/downloads/)
-### Check version 
+#### Check version 
 python --verison 
 
 ---
 
-##Setup virtual environment 
+### Setup virtual environment 
 pip install virtualenvwrapper-win  #installment of virtual environment wrapper 
 mkvirtualenv test #creation of virtual environment 
 
 ---
 
-##Django installation 
+### Django installation 
 pip install Django 
-### check version 
+#### check version 
 Djano-admin --version 
 
 ---
 
 Now Django is available only in the virtual environment test <br/>
-If we open a newterminal we need to navigate to the location we made the test environment <br/>
+If we open a new terminal we need to navigate to the location we made the test environment <br/>
 workon test 
 
 ---
 
-###Running the project 
-
+### Running the project 
 cd path to project 
 python manage.py runserver 
 
